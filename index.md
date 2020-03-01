@@ -4,7 +4,8 @@ This first section will cover the anlaysis of the Colorado Bear Draw. The presen
 
 
 ## The data
-The data used in the analysis are provided by the Colorado Department of Wildlife. 
+All data used in this project is publically available from the Colorado Department of Wildlife website.  
+
 ![Data_Image](https://user-images.githubusercontent.com/35975720/75626938-00c85e80-5b89-11ea-9595-77c4d9102d62.PNG)
 ## Units with the most left over license
 
