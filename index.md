@@ -5,6 +5,21 @@ This first section will cover the anlaysis of the Colorado Bear Draw. The presen
 
 ## The data
 The data used in the analysis are provided by the Colorado Department of Wildlife. 
+![Data_Image](https://user-images.githubusercontent.com/35975720/75626938-00c85e80-5b89-11ea-9595-77c4d9102d62.PNG)
+## Units with the most left over license
+
+
+## The most popular units
+
+
+## Wasted preference points
+
+
+## A glance at preference (Custom)
+
+
+## Preference Points table by number of points required
+
 
 
 You can use the [editor on GitHub](https://github.com/d-lee25/bear_analysis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
