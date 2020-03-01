@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Colorado Hunting Analysis Page
+
+This first section will cover the anlaysis of the Colorado Bear Draw. The presentation should provide you a better understanding of who is submitting applications, how many points it takes to be successful in a specific unit, and how many bear hunting tags are typically avaiable after the draw. 
 
 You can use the [editor on GitHub](https://github.com/d-lee25/bear_analysis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
