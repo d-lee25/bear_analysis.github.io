@@ -30,7 +30,7 @@ All data used in this project is publically available from the Colorado Departme
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" seamless="seamless" src="//plot.ly/~alee0187/11.embed"></iframe>
 
 ## A glance at preference (Custom)
-<iframe width="1200" height=500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/13.embed"></iframe>
+<iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/13.embed"></iframe>
 
 ## Preference Points table by number of points required
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/15.embed"></iframe>
