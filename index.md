@@ -11,15 +11,15 @@ All data used in this project is publically available from the Colorado Departme
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/9.embed"></iframe>
 
-###- 1. Unit BE041O1R
-     - Overall most left over tags
+1. Unit BE041O1R
+   - Overall most left over tags
 
-###- 2. Unit BE035O1R
-     - Second highest in left over
-     - No left overs in 2014
+2. Unit BE035O1R
+   - Second highest in left over
+   - No left overs in 2014
      
-###- 3. Unit BE004O1R 
-     - Most consistent from 2012 - 2019
+3. Unit BE004O1R 
+   - Most consistent from 2012 - 2019
 
 ## The most popular units
 <iframe width="1200" height="600" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/17.embed"></iframe>
