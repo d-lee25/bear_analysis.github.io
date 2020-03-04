@@ -36,6 +36,25 @@ All data used in this project is publically available from the Colorado Departme
 <iframe width="1200" height="600" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/15.embed"></iframe>
 
 ## Machine Learning Tests
+<li> List 1 </li>
+<li> List 1 </li>
+<li> List 1 </li> 
+      <li> List 1 </li>
+      
+      
+ul {
+  list-style: none; /* Remove default bullets */
+}
+
+ul li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: red; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+      
 
 You can use the [editor on GitHub](https://github.com/d-lee25/bear_analysis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
