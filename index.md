@@ -11,16 +11,16 @@ All data used in this project is publically available from the Colorado Departme
 
 
 ## The most popular units
-
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~alee0187/17.embed"></iframe>
 
 ## Wasted preference points
-
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~alee0187/11.embed"></iframe>
 
 ## A glance at preference (Custom)
-
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~alee0187/13.embed"></iframe>
 
 ## Preference Points table by number of points required
-
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~alee0187/15.embed"></iframe>
 
 ## Machine Learning Tests
 
