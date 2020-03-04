@@ -11,7 +11,7 @@ All data used in this project is publically available from the Colorado Departme
 
 
 ## The most popular units
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~alee0187/17.embed"></iframe>
+<iframe width="1200" height="800" frameborder="0" scrolling="no" src="//plot.ly/~alee0187/17.embed"></iframe>
 
 ## Wasted preference points
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~alee0187/11.embed"></iframe>
