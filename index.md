@@ -36,10 +36,17 @@ All data used in this project is publically available from the Colorado Departme
 <iframe width="1200" height="600" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/15.embed"></iframe>
 
 ## Machine Learning Tests
-   <li> List 1 </li>
-   <li> List 1 </li>
-   <li> List 1 </li> 
-   <li> List 1 </li>
+Test one: 
+
+
+Test two: 
+
+
+## Things to update
+<li> Restructure data for Machine Learning algorithms or attempt with different variables?  </li>
+<li>  </li>
+<li> List 1 </li> 
+<li> List 1 </li>
       
       
 ul {
