@@ -22,18 +22,18 @@ All data used in this project is publically available from the Colorado Departme
    - Most consistent from 2012 - 2019
 
 ## The most popular units
-<iframe width="1200" height="600" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/17.embed"></iframe>
+<iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/17.embed"></iframe>
 - Test
 - Test
 - Test
 ## Wasted preference points
-<iframe width="1200" height="600" frameborder="0" scrolling="no" seamless="seamless" seamless="seamless" src="//plot.ly/~alee0187/11.embed"></iframe>
+<iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" seamless="seamless" src="//plot.ly/~alee0187/11.embed"></iframe>
 
 ## A glance at preference (Custom)
-<iframe width="1200" height="600" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/13.embed"></iframe>
+<iframe width="1200" height=500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/13.embed"></iframe>
 
 ## Preference Points table by number of points required
-<iframe width="1200" height="600" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/15.embed"></iframe>
+<iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/15.embed"></iframe>
 
 ## Machine Learning Tests
 Test one: 
