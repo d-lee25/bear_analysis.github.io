@@ -9,7 +9,7 @@ All data used in this project is publically available from the Colorado Departme
 ![Data_Image](https://user-images.githubusercontent.com/35975720/75626938-00c85e80-5b89-11ea-9595-77c4d9102d62.PNG)
 ## Units with the most left over license
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/9.embed"></iframe>
+<iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/9.embed"></iframe>
 
 1. Unit BE041O1R
    - Overall most left over tags
