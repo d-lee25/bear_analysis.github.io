@@ -11,12 +11,12 @@ All data used in this project is publically available from the Colorado Departme
 
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/9.embed"></iframe>
 <ol>
-   <li> 1 Unit BE041O1R </li>
+   <li>Unit BE041O1R </li>
    <ul>
       <li>Overall most left over tags </li>
    </ul>  
 <b></b>
-   <li>2 Unit BE035O1R </li>
+   <li>Unit BE035O1R </li>
    <ul>
       <li>Second highest in left over </li>
       <li>No left overs in 2014 </li>
