@@ -1,14 +1,14 @@
 # Welcome to the Colorado Hunting Analysis Page
 
 This first section will cover the anlaysis of the Colorado Bear Draw. The presentation should provide you a better understanding of who is submitting applications, how many points it takes to be successful in a specific unit, and how many bear hunting tags are typically avaiable after the draw. 
-
+<br>
 
 ## The data
 All data used in this project is publically available from the Colorado Department of Wildlife website.  
 
 ![Data_Image](https://user-images.githubusercontent.com/35975720/75626938-00c85e80-5b89-11ea-9595-77c4d9102d62.PNG)
 
-
+<br>
 ## Units with the most left over license
 
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/9.embed"></iframe>
@@ -17,13 +17,13 @@ All data used in this project is publically available from the Colorado Departme
    <ul>
       <li>Overall most left over tags </li>
    </ul>  
-<b></b>
+<b>
    <li>Unit BE035O1R </li>
    <ul>
       <li>Second highest in left over </li>
       <li>No left overs in 2014 </li>
    </ul>
-<b></b>     
+<b> 
    <li>Unit BE004O1R </li>
    <ul>
       <li>Most consistent from 2012 - 2019</li>
