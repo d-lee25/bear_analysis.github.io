@@ -12,24 +12,16 @@ All data used in this project is publically available from the Colorado Departme
 ## Units with the most left over license
 
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/9.embed"></iframe>
-<ol>
-   <li>Unit BE041O1R </li>
-   <ul>
-      <li>Overall most left over tags </li>
-   </ul>  
-<b>
-   <li>Unit BE035O1R </li>
-   <ul>
-      <li>Second highest in left over </li>
-      <li>No left overs in 2014 </li>
-   </ul>
-<b> 
-   <li>Unit BE004O1R </li>
-   <ul>
-      <li>Most consistent from 2012 - 2019</li>
-   </ul>
-</ol>
-
+<br>
+1. Unit BE041O1R 
+-Overall most left over tags<br>
+2. Unit BE035O1R
+-Second highest in left over<br>
+-No left overs in 2014<br>
+3.Unit BE004O1R
+-Most consistent from 2012 - 2019
+<br>
+<br>
 
 ## The most popular units
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/17.embed"></iframe>
