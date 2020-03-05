@@ -5,6 +5,9 @@ This presentation aim to give you a better understanding of how many people are 
 
 
 ## The data
+&nbsp;
+&nbsp;
+&nbsp;
 
 All data used in this project is publically available from the Colorado Department of Wildlife website.  
 
@@ -17,7 +20,9 @@ All data used in this project is publically available from the Colorado Departme
 - An idea of where bear management focus needs to be
 - Which units they need to spend time on in order to attract hunters to assist with bear management
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### The analysis also provides hunters: 
 - Where to spend there points (RES/NR)
@@ -33,13 +38,19 @@ All data used in this project is publically available from the Colorado Departme
 
 1. Unit BE041O1R 
    - Overall most left over tags
+   &nbsp;
+   &nbsp;
 
 2. Unit BE035O1R
    - Second highest in left over
    - No left overs in 2014
+   &nbsp;
+   &nbsp;
    
 3. Unit BE004O1R
    - Most consistent from 2012 - 2019
+   &nbsp;
+   &nbsp;
 
 
 
