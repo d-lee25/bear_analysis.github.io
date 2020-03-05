@@ -1,12 +1,23 @@
-# Welcome to the Colorado Hunting Analysis Page
+# Welcome to the Colorado Bear Hunting Draw Analysis 
 
-This first section will cover the anlaysis of the Colorado Bear Draw. The presentation should provide you a better understanding of who is submitting applications, how many points it takes to be successful in a specific unit, and how many bear hunting tags are typically avaiable after the draw. 
+This presentation aim to give you a better understanding of how many people are submitting applications, how many points it takes to be successful in a specific unit, and how many bear hunting tags are typically avaiable after the draw. 
 
 
 ## The data
 All data used in this project is publically available from the Colorado Department of Wildlife website.  
 
 ![Data_Image](https://user-images.githubusercontent.com/35975720/75626938-00c85e80-5b89-11ea-9595-77c4d9102d62.PNG)
+
+
+This data provides the Colorado Department of Wildlife:
+- A better understanding of where most bear hunters want to hunt. 
+- An idea of where bear management focus needs to be
+- Which units they need to spend time on in order to attract hunters to assist with bear management
+
+The analysis also provides hunters: 
+- Where to spend there points (RES/NR)
+- How many points they need for a unit they desire (RES/NR)
+- Which units to not spend their points 
 
 
 ## Units with the most left over license
@@ -26,6 +37,8 @@ All data used in this project is publically available from the Colorado Departme
 
 ## The most popular units
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/17.embed"></iframe>
+
+
 1. Test 1
    - Test
    - Test
@@ -47,10 +60,10 @@ All data used in this project is publically available from the Colorado Departme
 
 
 ## Machine Learning Tests
-Test one: 
+1. Test one: 
 
 
-Test two: 
+2. Test two: 
 
 
 
