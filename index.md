@@ -29,11 +29,11 @@ All data used in this project is publically available from the Colorado Departme
 </ol>
 ## The most popular units
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/17.embed"></iframe>
-1. Test 1
+###1. Test 1
    - Test
    - Test
 
-2. Test 2
+###2. Test 2
    - Test
 ## Wasted preference points
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" seamless="seamless" src="//plot.ly/~alee0187/11.embed"></iframe>
