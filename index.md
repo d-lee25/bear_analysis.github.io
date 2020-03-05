@@ -3,18 +3,22 @@
 This presentation aim to give you a better understanding of how many people are submitting applications, how many points it takes to be successful in a specific unit, and how many bear hunting tags are typically avaiable after the draw. 
 
 
+
 ## The data
 All data used in this project is publically available from the Colorado Department of Wildlife website.  
 
 ![Data_Image](https://user-images.githubusercontent.com/35975720/75626938-00c85e80-5b89-11ea-9595-77c4d9102d62.PNG)
 
 
-This data provides the Colorado Department of Wildlife:
+
+### This data provides the Colorado Department of Wildlife:
 - A better understanding of where most bear hunters want to hunt. 
 - An idea of where bear management focus needs to be
 - Which units they need to spend time on in order to attract hunters to assist with bear management
 
-The analysis also provides hunters: 
+
+
+### The analysis also provides hunters: 
 - Where to spend there points (RES/NR)
 - How many points they need for a unit they desire (RES/NR)
 - Which units to not spend their points 
@@ -35,6 +39,7 @@ The analysis also provides hunters:
    - Most consistent from 2012 - 2019
 
 
+
 ## The most popular units
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/17.embed"></iframe>
 
@@ -47,16 +52,23 @@ The analysis also provides hunters:
    - Test
 
 
+
 ## Wasted preference points
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" seamless="seamless" src="//plot.ly/~alee0187/11.embed"></iframe>
+
+
 
 
 ## A glance at preference (Custom)
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/13.embed"></iframe>
 
 
+
+
 ## Preference Points table by number of points required
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/15.embed"></iframe>
+
+
 
 
 ## Machine Learning Tests
@@ -67,8 +79,12 @@ The analysis also provides hunters:
 
 
 
+
+
 ## Things to update
  Restructure data for Machine Learning algorithms or attempt with different variables?  
+
+
 
       
 
