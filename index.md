@@ -1,35 +1,36 @@
 # Welcome to the Colorado Hunting Analysis Page
 
 This first section will cover the anlaysis of the Colorado Bear Draw. The presentation should provide you a better understanding of who is submitting applications, how many points it takes to be successful in a specific unit, and how many bear hunting tags are typically avaiable after the draw. 
-<br>
+
 
 ## The data
 All data used in this project is publically available from the Colorado Department of Wildlife website.  
 
 ![Data_Image](https://user-images.githubusercontent.com/35975720/75626938-00c85e80-5b89-11ea-9595-77c4d9102d62.PNG)
 
-<br>
+
 ## Units with the most left over license
 
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/9.embed"></iframe>
-<br>
+
 1. Unit BE041O1R 
--Overall most left over tags<br>
+   -Overall most left over tags<br>
+   
 2. Unit BE035O1R
--Second highest in left over<br>
--No left overs in 2014<br>
+   -Second highest in left over
+   -No left overs in 2014<br>
+   
 3.Unit BE004O1R
--Most consistent from 2012 - 2019
-<br>
-<br>
+   -Most consistent from 2012 - 2019
+
 
 ## The most popular units
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/17.embed"></iframe>
-###1. Test 1
+1. Test 1
    - Test
    - Test
 
-###2. Test 2
+2. Test 2
    - Test
 
 
@@ -54,25 +55,10 @@ Test two:
 
 
 ## Things to update
-<li> Restructure data for Machine Learning algorithms or attempt with different variables?  </li>
-<li>  </li>
-<li> List 1 </li> 
-<li> List 1 </li>
-      
-      
-ul {
-  list-style: none; /* Remove default bullets */
-}
+ Restructure data for Machine Learning algorithms or attempt with different variables?  
 
-ul li::before {
-  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-  color: red; /* Change the color */
-  font-weight: bold; /* If you want it to be bold */
-  display: inline-block; /* Needed to add space between the bullet and the text */
-  width: 1em; /* Also needed for space (tweak if needed) */
-  margin-left: -1em; /* Also needed for space (tweak if needed) */
-}
       
+
 
 You can use the [editor on GitHub](https://github.com/d-lee25/bear_analysis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
