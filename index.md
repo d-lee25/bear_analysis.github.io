@@ -22,19 +22,17 @@
 &nbsp;
 &nbsp;
 ## The data
-
+&nbsp;
 All data used in this project is publically available: 
 1. Colorado Department of Wildlife website
 2. Huntscore.com (Assist with analysis)
-
+&nbsp;
 ![Data_Image](https://user-images.githubusercontent.com/35975720/75626938-00c85e80-5b89-11ea-9595-77c4d9102d62.PNG)
 &nbsp;
 &nbsp;
-
 ## Top 10 units with the most left over license
-
-<iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/9.embed"></iframe>
 &nbsp;
+<iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/9.embed"></iframe>
 &nbsp;
 1. Unit BE041O1R 
    - Overall most left over tags 
@@ -51,12 +49,12 @@ All data used in this project is publically available:
    &nbsp;
    &nbsp;
 ## The most popular units
-
+&nbsp;
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/17.embed"></iframe>
 &nbsp;
 ### Criteria: 
 The units were selected based on how many applications were submitted for a specific unit. 
-
+&nbsp;
 1. Total of 7 units that had high applicants since 2015
    - BE061O1R
    - BE041O1R
