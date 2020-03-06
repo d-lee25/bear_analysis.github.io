@@ -113,7 +113,15 @@ The units were selected based on how many applications were submitted for a spec
 
 
 ## Machine Learning Tests
+
+### Heat map of dataset
+
+![heatmap_before](https://user-images.githubusercontent.com/35975720/76047630-8305a980-5f20-11ea-8e03-723e03519450.PNG)
+
+![heatmap_after](https://user-images.githubusercontent.com/35975720/76047636-87ca5d80-5f20-11ea-90bb-550fbadd4042.PNG)
+
 ### Two machine learning algorthims were used for this dataset. 
+
 1. Test one: Logistic Regression
    - 52% accuracy
 
