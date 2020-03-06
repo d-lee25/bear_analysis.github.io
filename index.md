@@ -1,11 +1,19 @@
 # Welcome to the Colorado Bear Hunting Draw Analysis 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## The Goal of this presentation: 
 1. Provide a better understanding of how many people are submitting applications each year
 2. Attempt to identify how many points it takes to be successful in a given unit 
 3. Identify how many bear hunting tags are typically avaiable after the draw each year
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## The target audience: 
 1. Colorado State Wildlife Department
@@ -21,9 +29,11 @@
 - Where to spend there points (RES/NR)
 - How many points they need for a unit they desire (RES/NR)
 - Which units to not spend their points 
-&nbsp;
-&nbsp;
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## The data
 All data used in this project is publically available: 
@@ -32,6 +42,9 @@ All data used in this project is publically available:
 &nbsp;
 
 ![Data_Image](https://user-images.githubusercontent.com/35975720/75626938-00c85e80-5b89-11ea-9595-77c4d9102d62.PNG)
+
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
@@ -53,6 +66,10 @@ All data used in this project is publically available:
 3. Unit BE004O1R
    - Most consistent from 2012 - 2019 (only unit with left overs every year)
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## The most popular units
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/17.embed"></iframe>
@@ -86,6 +103,11 @@ The units were selected based on how many applications were submitted for a spec
    - Hard to draw
    - Minimal public access
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 ## Wasted preference points
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" seamless="seamless" src="//plot.ly/~alee0187/11.embed"></iframe>
 
@@ -96,6 +118,10 @@ The units were selected based on how many applications were submitted for a spec
    - 16 points 2018, 2019
    - 15 points 2017, 2016, 2015
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## 2019 Pre Draw
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/13.embed"></iframe>
@@ -103,6 +129,10 @@ The units were selected based on how many applications were submitted for a spec
 1. This identifies how how many preference points were used for a given unit during the draw
 2. Allows a hunter to decide where his best chances are with the given points
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## 2019 Preference Points table 
 
@@ -110,6 +140,10 @@ The units were selected based on how many applications were submitted for a spec
 
 1. Identify how many points it took to be successful in a given unit
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Machine Learning Tests
 
@@ -137,6 +171,10 @@ The units were selected based on how many applications were submitted for a spec
 - 2020 data is not provided to test the algorithm (variables) 
    - If accuracy was achieved, average of the past 2 years would be used as variables
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Things to update
 1. Restructure data for Machine Learning algorithms?
@@ -144,7 +182,14 @@ The units were selected based on how many applications were submitted for a spec
 3. Coordinate with CDOW - possible access to data not in a PDF format
 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 [comment]: <> You can use the [editor on GitHub](https://github.com/d-lee25/bear_analysis.github.io/edit/master/index.md) to maintain [comment]: <> and preview the content for your website in Markdown files.
 
