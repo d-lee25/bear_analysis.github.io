@@ -23,7 +23,9 @@
 &nbsp;
 ## The data
 
-All data used in this project is publically available from the Colorado Department of Wildlife website.  
+All data used in this project is publically available: 
+1. Colorado Department of Wildlife website
+2. Huntscore.com (Assist with analysis)
 
 ![Data_Image](https://user-images.githubusercontent.com/35975720/75626938-00c85e80-5b89-11ea-9595-77c4d9102d62.PNG)
 &nbsp;
@@ -64,9 +66,19 @@ The units were selected based on how many applications were submitted for a spec
    - BEE71O1R
    - BE062O1R
 &nbsp;
-Note: Everyone drawing for BE004O1R should be selected.
+2. Unit BE061O1R consistently remained popular
+   - Hunt Score 82/100 (What makes this unit popular)
+      - 76% of the unit is public land  
+      - Scored 100 for trophy potential
+      - Scored 72 for opportunity
 &nbsp;
-2. Three units with high applicants for a single year - 
+3. Everyone drawing for BE004O1R should be selected
+   - Hunt Score 93/100 (What makes this unit popular)
+      - 63% of the unit is public
+      - Easy access
+      - Opportunity
+&nbsp;
+4. Three units with high applicants for a single year 
    - Were the units not avaialbe in other years? 
    - What made those units highly sought after one year but not the others? 
 &nbsp;
