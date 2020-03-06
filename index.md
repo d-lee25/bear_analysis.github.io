@@ -5,15 +5,12 @@ This presentation aim to give you a better understanding of how many people are 
 
 
 ## The data
-&nbsp;
-&nbsp;
-&nbsp;
 
 All data used in this project is publically available from the Colorado Department of Wildlife website.  
 
 ![Data_Image](https://user-images.githubusercontent.com/35975720/75626938-00c85e80-5b89-11ea-9595-77c4d9102d62.PNG)
-
-
+&nbsp;
+&nbsp;
 
 ### This data provides the Colorado Department of Wildlife:
 - A better understanding of where most bear hunters want to hunt. 
@@ -51,11 +48,11 @@ All data used in this project is publically available from the Colorado Departme
    
 3. Unit BE004O1R
    - Most consistent from 2012 - 2019
+   
    &nbsp;
    &nbsp;
 
 ## The most popular units
-&nbsp;
 
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/17.embed"></iframe>
 &nbsp;
@@ -79,7 +76,6 @@ All data used in this project is publically available from the Colorado Departme
 &nbsp;
 
 ## A glance at preference (Custom)
-&nbsp;
 
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/13.embed"></iframe>
 
@@ -87,7 +83,6 @@ All data used in this project is publically available from the Colorado Departme
 &nbsp;
 
 ## Preference Points table by number of points required
-&nbsp;
 
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/15.embed"></iframe>
 
