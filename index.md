@@ -8,20 +8,19 @@
 
 ## The target audience: 
 1. Colorado State Wildlife Department
+2. Hunters interested in pursuing bear in Colorado (Residents/Non Residents)
+
 ### This data provides the Colorado Department of Wildlife:
 - A better understanding of where most bear hunters want to hunt. 
 - An idea of where bear management focus needs to be
 - Which units they need to spend time on in order to attract hunters to assist with bear management
 &nbsp;
-2. Hunters interested in pursuing bear in Colorado (Residents/Non Residents)
 ### The analysis also provides hunters: 
 - Where to spend there points (RES/NR)
 - How many points they need for a unit they desire (RES/NR)
 - Which units to not spend their points 
-
 &nbsp;
 &nbsp;
-
 ## The data
 
 All data used in this project is publically available from the Colorado Department of Wildlife website.  
