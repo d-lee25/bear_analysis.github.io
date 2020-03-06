@@ -114,9 +114,12 @@ The units were selected based on how many applications were submitted for a spec
 
 ## Machine Learning Tests
 ### Two machine learning algorthims were used for this dataset. 
-1. Test one: 
+1. Test one: Logistic Regression
+   - 52% accuracy
 
-2. Test two: 
+2. Test two: K-Nearest Neighbors (KNN)
+   - 47% accuracy
+   
 - Neither algorithm provided the accuracy desired. 
    - Restructure dataset?
    - Different algorithm?
