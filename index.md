@@ -131,12 +131,12 @@ The units were selected based on how many applications were submitted for a spec
 2. Test two: K-Nearest Neighbors (KNN)
    - 47% accuracy
    
-- Neither algorithm provided the accuracy desired. 
+- Neither algorithm provided the accuracy desired
    - Restructure dataset?
    - Different algorithm?
 - 2020 Bear draw slighly changed 
 - 2020 data is not provided to test the algorithm (variables) 
-   - If accuracy was achieved, average of the past 2 years would be used as variables. 
+   - If accuracy was achieved, average of the past 2 years would be used as variables
 
 
 ## Things to update
