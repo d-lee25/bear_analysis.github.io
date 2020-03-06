@@ -120,6 +120,9 @@ The units were selected based on how many applications were submitted for a spec
 
 ![heatmap_after](https://user-images.githubusercontent.com/35975720/76047636-87ca5d80-5f20-11ea-90bb-550fbadd4042.PNG)
 
+1. Filled in necessary numbers (NaN to 0 as appropriate)
+2. Removed data between 2012 - 2014 (Data provided was different compared to 2015-2019)
+
 ### Two machine learning algorthims were used for this dataset. 
 
 1. Test one: Logistic Regression
