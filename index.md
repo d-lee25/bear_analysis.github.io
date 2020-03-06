@@ -6,6 +6,7 @@
 2. Attempt to identify how many points it takes to be successful in a given unit 
 3. Identify how many bear hunting tags are typically avaiable after the draw each year
 
+
 ## The target audience: 
 1. Colorado State Wildlife Department
 2. Hunters interested in pursuing bear in Colorado (Residents/Non Residents)
@@ -23,8 +24,8 @@
 &nbsp;
 &nbsp;
 
+
 ## The data
-&nbsp;
 All data used in this project is publically available: 
 1. Colorado Department of Wildlife website
 2. Huntscore.com (Assist with analysis)
@@ -34,9 +35,8 @@ All data used in this project is publically available:
 &nbsp;
 &nbsp;
 
-## Top 10 units with the most left over license
-&nbsp;
 
+## Top 10 units with the most left over license
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/9.embed"></iframe>
 &nbsp;
 
@@ -52,17 +52,14 @@ All data used in this project is publically available:
 
 3. Unit BE004O1R
    - Most consistent from 2012 - 2019 (only unit with left overs every year)
-   &nbsp;
+
 
 ## The most popular units
-&nbsp;
-
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/17.embed"></iframe>
 &nbsp;
 
 ### Criteria: 
 The units were selected based on how many applications were submitted for a specific unit. 
-&nbsp;
 
 1. Total of 7 units that had high applicants since 2015
    - BE061O1R
@@ -72,28 +69,26 @@ The units were selected based on how many applications were submitted for a spec
    - BE004O1R
    - BEE71O1R
    - BE062O1R
-&nbsp;
+
 2. Unit BE061O1R consistently remained popular
    - Hunt Score 82/100 (What makes this unit popular)
       - 76% of the unit is public land  
       - Scored 100 for trophy potential
       - Scored 72 for opportunity
-&nbsp;
+
 3. Everyone drawing for BE004O1R should be selected
    - Hunt Score 93/100 (What makes this unit popular)
       - 63% of the unit is public
       - Easy access
       - Opportunity
-&nbsp;
+
 4. Three units with high applicants for a single year 
    - Were the units not avaialbe in other years? 
    - What made those units highly sought after one year but not the others? 
-&nbsp;
+
 
 ## Wasted preference points
-&nbsp;
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" seamless="seamless" src="//plot.ly/~alee0187/11.embed"></iframe>
-&nbsp;
 
 ### These units had left over tags, but hunters used points during the draw (lets hope its an error)
 1. One point equals one year
@@ -101,50 +96,41 @@ The units were selected based on how many applications were submitted for a spec
    - 17 points 2018
    - 16 points 2018, 2019
    - 15 points 2017, 2016, 2015
-&nbsp;
+
 
 ## 2019 Pre Draw
-&nbsp;
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/13.embed"></iframe>
-&nbsp;
+
 1. This identifies how how many preference points were used for a given unit during the draw
 2. Allows a hunter to decide where his best chances are with the given points
-3. Compare and contrast how many points are used for a unit
-&nbsp;
+
 
 ## 2019 Preference Points table 
-&nbsp;
+
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/15.embed"></iframe>
-&nbsp;
 
 1. Identify how many points it took to be successful in a given unit
-&nbsp;
+
 
 ## Machine Learning Tests
-&nbsp;
-
 ### Two machine learning algorthims were used for this dataset. 
 1. Test one: 
-&nbsp;
 
 2. Test two: 
-&nbsp;
 - Neither algorithm provided the accuracy desired. 
    - Restructure dataset?
    - Different algorithm?
-&nbsp;
 - 2020 Bear draw slighly changed 
 - 2020 data is not provided to test the algorithm (variables) 
    - If accuracy was achieved, average of the past 2 years would be used as variables. 
-&nbsp;
+
 
 ## Things to update
 1. Restructure data for Machine Learning algorithms?
 2. Create a database (SQL) to store data as it grows with other species
 3. Coordinate with CDOW - possible access to data not in a PDF format
-&nbsp;
-&nbsp;
-     
+
+
 
 
 You can use the [editor on GitHub](https://github.com/d-lee25/bear_analysis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
