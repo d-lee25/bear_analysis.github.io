@@ -125,8 +125,8 @@ The units were selected based on how many applications were submitted for a spec
 
 ### Two machine learning algorthims were used for this dataset. 
 1. Test one: 
-
 &nbsp;
+
 2. Test two: 
 &nbsp;
 - Neither algorithm provided the accuracy desired. 
@@ -137,7 +137,7 @@ The units were selected based on how many applications were submitted for a spec
 - 2020 data is not provided to test the algorithm (variables) 
    - If accuracy was achieved, average of the past 2 years would be used as variables. 
 &nbsp;
-&nbsp;
+
 ## Things to update
 1. Restructure data for Machine Learning algorithms?
 2. Create a database (SQL) to store data as it grows with other species
