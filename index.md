@@ -15,46 +15,55 @@
 - An idea of where bear management focus needs to be
 - Which units they need to spend time on in order to attract hunters to assist with bear management
 &nbsp;
+
 ### The analysis also provides hunters: 
 - Where to spend there points (RES/NR)
 - How many points they need for a unit they desire (RES/NR)
 - Which units to not spend their points 
 &nbsp;
 &nbsp;
+
 ## The data
 &nbsp;
 All data used in this project is publically available: 
 1. Colorado Department of Wildlife website
 2. Huntscore.com (Assist with analysis)
 &nbsp;
+
 ![Data_Image](https://user-images.githubusercontent.com/35975720/75626938-00c85e80-5b89-11ea-9595-77c4d9102d62.PNG)
 &nbsp;
 &nbsp;
+
 ## Top 10 units with the most left over license
 &nbsp;
+
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/9.embed"></iframe>
 &nbsp;
+
 1. Unit BE041O1R 
    - Overall most left over tags 
    - No left over tags in 2012
 &nbsp;
-&nbsp;
+
 2. Unit BE035O1R
    - Second highest unit with left over tags
    - No left overs tags in 2014
    &nbsp;
-   &nbsp;
+
 3. Unit BE004O1R
    - Most consistent from 2012 - 2019 (only unit with left overs every year)
    &nbsp;
-   &nbsp;
+
 ## The most popular units
 &nbsp;
+
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/17.embed"></iframe>
 &nbsp;
+
 ### Criteria: 
 The units were selected based on how many applications were submitted for a specific unit. 
 &nbsp;
+
 1. Total of 7 units that had high applicants since 2015
    - BE061O1R
    - BE041O1R
@@ -80,11 +89,12 @@ The units were selected based on how many applications were submitted for a spec
    - Were the units not avaialbe in other years? 
    - What made those units highly sought after one year but not the others? 
 &nbsp;
-&nbsp;
+
 ## Wasted preference points
 &nbsp;
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" seamless="seamless" src="//plot.ly/~alee0187/11.embed"></iframe>
 &nbsp;
+
 ### These units had left over tags, but hunters used points during the draw (lets hope its an error)
 1. One point equals one year
 2. Highest points wasted : 
@@ -92,7 +102,7 @@ The units were selected based on how many applications were submitted for a spec
    - 16 points 2018, 2019
    - 15 points 2017, 2016, 2015
 &nbsp;
-&nbsp;
+
 ## 2019 Pre Draw
 &nbsp;
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/13.embed"></iframe>
@@ -101,16 +111,18 @@ The units were selected based on how many applications were submitted for a spec
 2. Allows a hunter to decide where his best chances are with the given points
 3. Compare and contrast how many points are used for a unit
 &nbsp;
-&nbsp;
+
 ## 2019 Preference Points table 
 &nbsp;
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/15.embed"></iframe>
 &nbsp;
+
 1. Identify how many points it took to be successful in a given unit
 &nbsp;
-&nbsp;
+
 ## Machine Learning Tests
 &nbsp;
+
 ### Two machine learning algorthims were used for this dataset. 
 1. Test one: 
 
