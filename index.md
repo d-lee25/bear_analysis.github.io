@@ -1,30 +1,32 @@
 # Welcome to the Colorado Bear Hunting Draw Analysis 
 
-This presentation aim to give you a better understanding of how many people are submitting applications, how many points it takes to be successful in a specific unit, and how many bear hunting tags are typically avaiable after the draw. 
 
+## The Goal of this presentation: 
+1. Provide a better understanding of how many people are submitting applications each year
+2. Attempt to identify how many points it takes to be successful in a given unit 
+3. Identify how many bear hunting tags are typically avaiable after the draw each year
 
+## The target audience: 
+1. Colorado State Wildlife Department
+### This data provides the Colorado Department of Wildlife:
+- A better understanding of where most bear hunters want to hunt. 
+- An idea of where bear management focus needs to be
+- Which units they need to spend time on in order to attract hunters to assist with bear management
+&nbsp;
+2. Hunters interested in pursuing bear in Colorado (Residents/Non Residents)
+### The analysis also provides hunters: 
+- Where to spend there points (RES/NR)
+- How many points they need for a unit they desire (RES/NR)
+- Which units to not spend their points 
+
+&nbsp;
+&nbsp;
 
 ## The data
 
 All data used in this project is publically available from the Colorado Department of Wildlife website.  
 
 ![Data_Image](https://user-images.githubusercontent.com/35975720/75626938-00c85e80-5b89-11ea-9595-77c4d9102d62.PNG)
-&nbsp;
-&nbsp;
-
-### This data provides the Colorado Department of Wildlife:
-- A better understanding of where most bear hunters want to hunt. 
-- An idea of where bear management focus needs to be
-- Which units they need to spend time on in order to attract hunters to assist with bear management
-
-&nbsp;
-&nbsp;
-
-### The analysis also provides hunters: 
-- Where to spend there points (RES/NR)
-- How many points they need for a unit they desire (RES/NR)
-- Which units to not spend their points 
-
 &nbsp;
 &nbsp;
 
