@@ -147,9 +147,9 @@ The units were selected based on how many applications were submitted for a spec
 
 
 
-You can use the [editor on GitHub](https://github.com/d-lee25/bear_analysis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[comment]: <> You can use the [editor on GitHub](https://github.com/d-lee25/bear_analysis.github.io/edit/master/index.md) to maintain [comment]: <> and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[comment]: <> Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your [comment]: <> site, from the content in your Markdown files.
 
 
 
