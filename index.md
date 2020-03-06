@@ -80,12 +80,11 @@ The units were selected based on how many applications were submitted for a spec
    - Hunt Score 93/100 (What makes this unit popular)
       - 63% of the unit is public
       - Easy access
-      - Opportunity
+      - Opportunity - 100
 
-4. Three units with high applicants for a single year 
-   - Were the units not avaialbe in other years? 
-   - What made those units highly sought after one year but not the others? 
-
+4. Four units with high applicants for a single year 
+   - Hard to draw
+   - Minimal public access
 
 ## Wasted preference points
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" seamless="seamless" src="//plot.ly/~alee0187/11.embed"></iframe>
