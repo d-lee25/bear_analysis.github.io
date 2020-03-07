@@ -16,16 +16,16 @@
 &nbsp;
 
 ## The target audience: 
-1. Colorado State Wildlife Department
+1. Colorado Department of Wildlife (CDOW)
 2. Hunters interested in pursuing bear in Colorado (Residents/Non Residents)
 
 ### This data provides the Colorado Department of Wildlife:
-- A better understanding of where most bear hunters desire to hunt
+- Introduction to where most bear hunters desire to hunt
 - An idea of where bear management focus needs to be
-- Which units they need to spend time on in order to attract hunters to assist with bear management
+- Which units might need some assistance to attract more bear hunters 
 &nbsp;
 
-### The analysis also provides hunters: 
+### The analysis also provide hunters: 
 - Where to spend there points (RES/NR)
 - How many points they need for a unit they desire (RES/NR)
 - Which units to not spend their points 
@@ -89,9 +89,10 @@ The units were selected based on how many applications were submitted for a spec
 
 2. Unit BE061O1R consistently remained popular
    - Hunt Score 82/100 (What makes this unit popular)
-      - 76% of the unit is public land  
-      - Scored 100 for trophy potential
+      - 76% of the unit is public land 
       - Scored 72 for opportunity
+      - Scored 100 for trophy potential
+      
 
 3. Everyone drawing for BE004O1R should be selected
    - Hunt Score 93/100 (What makes this unit popular)
