@@ -123,17 +123,6 @@ The units were selected based on how many applications were submitted for a spec
 &nbsp;
 &nbsp;
 
-## 2019 Pre Draw
-<iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/13.embed"></iframe>
-
-1. This identifies how how many preference points were used for a given unit during the draw
-2. Allows a hunter to decide where his best chances are with the given points
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 ## 2019 Preference Points table 
 
 <iframe width="1200" height="500" frameborder="0" scrolling="no" seamless="seamless" src="//plot.ly/~alee0187/15.embed"></iframe>
